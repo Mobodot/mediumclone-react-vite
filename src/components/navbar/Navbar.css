@@ -1,0 +1,19 @@
+.navbar__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+}
+
+.navbar-items {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.navbar-item {
+  color: #55595c;
+}
+
+.navbar-item.active {
+  color: #459045;
+}
