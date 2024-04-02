@@ -1,0 +1,22 @@
+.footer {
+  background-color: #f3f3f3;
+  padding: 1rem 0;
+}
+
+.footer__text {
+  font-size: 0.82rem;
+  color: #d3d3d3;
+  text-align: center;
+}
+/* #459045 */
+
+.footer__app-text.app-link {
+  font-size: 1rem;
+  font-weight: 800;
+  color: #459045;
+  margin-right: 5px;
+}
+
+.footer__app-text.text-link {
+  color: #459045;
+}
